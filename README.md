@@ -1,7 +1,7 @@
-# DSA-java
-# 🧠 Java DSA Practice
+# DSA-C++
+# 🧠 C++ DSA Practice
 
-This repository contains my daily practice of *Data Structures and Algorithms* using Java.  
+This repository contains my daily practice of *Data Structures and Algorithms* using C++.  
 Problems are solved from platforms like *LeetCode, HackerRank, GFG*, and more.
 
 ---
