@@ -6,7 +6,7 @@ int main(){
     cin>>target;
     bool found=false;
     for(int st=0;st<n;st++){
-        for(int end=st;end<n;end++){
+        for(int end=st+1;end<n;end++){
             if((a[st]+a[end])==target){
                 cout<<a[st]<<" + "<<a[end]<<" = "<<target;
                 cout<<"\nwe found pair at "<<st<<" and "<<end<<" index.";
